@@ -1,4 +1,4 @@
-module github.com/Yohenba18/go.git
+module github.com/Yohenba18/go-project.git
 
 go 1.17
 
